@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EE4C6037-B47F-9B05-77D5-0550273D8F2A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GunController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="58" Column="1" />
+      <File FileName="Assets/Scripts/LivingEntity.cs" Line="5" Column="26" />
+      <File FileName="Assets/Scripts/IDamagable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="129" Column="125" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChargerController.cs" Line="15" Column="29" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="11" Column="25" />
+      <File FileName="Assets/Scripts/BatteryManager.cs" Line="33" Column="5" />
+      <File FileName="Assets/Scripts/Player.cs" Line="14" Column="40" />
+      <File FileName="Assets/Scripts/Gun.cs" Line="45" Column="48" />
+      <File FileName="Assets/Scripts/LaserFlash.cs" Line="56" Column="49" />
+      <File FileName="Assets/EnergyManager.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/GunController.cs" Line="37" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c037723b-e445-4ade-968d-cac359614b45" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
